@@ -1,1 +1,1 @@
-# sequence-topology
+# sequence-patterns
